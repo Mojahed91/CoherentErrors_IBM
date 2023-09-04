@@ -1,5 +1,6 @@
-# CoherentErrors_IBM
-Detecting the amount of coherent error in IBM quantum processors Quito and logos
+# Identifying Coherent Errors in IBM Quantum Processors
+
+In this research, we introduce two types of coherent errors: controllable and uncontrollable coherent errors. In this repository, you will find a Jupyter notebook that demonstrates how to extract these two types of errors step by step for IBM Quito and Lagos quantum processors.
 
 
 # Characterizing Coherent Errors in IBM Quito backend and lagos backend
